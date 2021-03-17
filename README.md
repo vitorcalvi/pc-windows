@@ -15,3 +15,12 @@
 - Python
 - Ultra Defragmenter
 - VLC Media Player
+- google drive
+- arduino 
+- irpf
+- Performance manteiner
+- puttya
+- fox it reader
+- microsoft office
+- pl2303 usb-to-serial
+- 
