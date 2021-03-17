@@ -19,8 +19,6 @@
 - arduino 
 - irpf
 - Performance manteiner
-- puttya
-- fox it reader
+- putty
 - microsoft office
-- pl2303 usb-to-serial
 - filezilla
