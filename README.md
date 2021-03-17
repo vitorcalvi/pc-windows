@@ -23,4 +23,4 @@
 - fox it reader
 - microsoft office
 - pl2303 usb-to-serial
-- 
+- filezilla
